@@ -60,4 +60,4 @@ in 394 genes. Genes along the x-axis are ordered alphabetically.",
                   just="left")
 )
 
-ggsave("figure1_final.png", g)
+ggsave("figure1_final.pdf", g)
